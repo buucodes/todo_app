@@ -1,5 +1,1 @@
-charge tesla
-add a new player
-go outside
-make soup
-make pizza
+improve GUI
