@@ -1,1 +1,7 @@
-improve GUI
+Make improvements to GUI
+Master Python!
+Taxes
+Add a new todo
+Test out the GUI
+Try new feature
+Try new feature again
